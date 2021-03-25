@@ -39,8 +39,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-[https://imgur.com/a/HnHWwis]
 
+Winning the game
+![Winning](https://i.imgur.com/x0LMrln.gif)
+Losing the game
+![Losing](https://i.imgur.com/yBEQw2L.gif)
+Random Patterns
+![Randomized Pattern](https://i.imgur.com/Bp3fhCY.gif)
 
 
 ## Reflection Questions
